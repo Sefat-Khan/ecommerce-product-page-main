@@ -59,6 +59,8 @@ Acknowledgments
 
 Feel free to reach out if you have any questions or suggestions!
 
+project preview link: https://sefat-khan.github.io/ecommerce-product-page-main/.
+
 Coded by [Sefat khan]
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
